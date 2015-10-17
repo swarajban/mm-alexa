@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "GetMovies",
+      "slots": [
+        {
+          "name": "QuerySlot",
+          "type": "MovieQuery"
+        }
+      ]
+    }
+  ]
+}
